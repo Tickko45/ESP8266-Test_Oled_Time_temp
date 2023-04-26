@@ -1,0 +1,18 @@
+RCT > Esp8266
+VCC --> 3.3v - 5v
+GND --> GND
+CLK/SCLK --> D5
+DAT/IO --> D4
+RST/CE --> D2
+
+DHT11 > Esp8266
++ > 3v
+out > D1
+- > GND
+
+OLED > Esp8266
+D1 -> SCL
+D2 -> SDA
+3V -> VCC
+GND -> GND
+
